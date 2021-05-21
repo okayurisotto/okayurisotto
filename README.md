@@ -1,4 +1,4 @@
-<h1 align="center">(＝v＝)ﾉ &lt; Hi there<em>!!!</em></h1>
+<h1 align="center">(－v－)ﾉ &lt; Hi there<em>!!!</em></h1>
 <p align="center">I'm okayurisotto! Nice to meet you!</p>
 
 ---
