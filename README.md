@@ -15,13 +15,13 @@ GitやGitHubのお勉強も兼ねてこのリポジトリを作成しました�
 <div align="center">
 
 [Twitter](https://twitter.com/okayu_tar_gz)
-/
+*/*
 [misskey.io](https://misskey.io/@okayu)
-/
+*/*
 [Qiita](https://qiita.com/okayurisotto)
-/
+*/*
 [ニコニコ](https://www.nicovideo.jp/user/88383901)
-/
+*/*
 [カクヨム](https://kakuyomu.jp/users/okyrst)
 
 </div>
